@@ -6,7 +6,7 @@ src = "src"
 title = "Tools for documenting in Industrial Automation"
 
 [preprocessor.plantuml]
-plantuml-cmd="http://localhost:8080"
+plantuml-cmd="http://localhost:8181"
 
 [output.html]
 default-theme = "Rust"
