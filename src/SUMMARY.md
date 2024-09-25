@@ -20,4 +20,4 @@
   - [Committing a change](./exersizes/Committing.md)
   - [Creating a branch](./exersizes/Branching.md)
   - [Collaborating](./exersizes/Collaborating.md)
-  - [Manchester United](./exersizes/Collaborating.md)
+
